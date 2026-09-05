@@ -1,16 +1,25 @@
-## Hi there 👋
+# František Kalášek
 
-<!--
-**LShadow696/LShadow696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+## Contact Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 **Phone:** +420 722 426 195
+
+✉️ **Email:** Lshadow696@fkv.me
+
+🌐 **Website:** http://fkv.me
+
+## Address
+
+Javorek 54  
+592 03 Javorek  
+Česká Republika
+
+## Personal Info
+
+🎂 **Birthday:** 18. ledna 1994
+
+---
+
+Feel free to explore my repositories and connect with me!
