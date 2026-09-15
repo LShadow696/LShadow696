@@ -1,57 +1,65 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="František Kalášek — full-stack developer from the Czech Republic" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Leafy Shadow — František Kalášek. Signal locked. Czech Republic." width="100%" />
 </p>
 
 <p align="center">
   <a href="https://fkv.me">website</a>
   &nbsp;·&nbsp;
-  <a href="mailto:Lshadow696@fkv.me">email</a>
+  <a href="mailto:Lshadow696@fkv.me">transmit</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/LeafyShadowQQ">x</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/LShadow696">github</a>
 </p>
 
-I build mobile-first web apps that stay useful when the network doesn't — quiet interfaces, reliable sync, and product details that feel considered.
+```
+if (gap) create(rest);
+```
 
-Currently in the Czech Republic, working at the intersection of React, TypeScript, and real-time data.
+I don't ship decks. I ship the thing you keep open when the tower drops.
 
-## Now
-
-- Shipping **Pro Tebe**, a private shared space for two people
-- Building a multi-channel messaging studio on MailerSend
-- Exploring offline-first UX and clean mobile interaction
-
-## Selected work
-
-### Pro Tebe
-
-A private, mobile-first product for staying connected across devices. Shared messages, reactions, photo memories, and offline-friendly sync.
+Two phones. A dead zone. A message that still arrives. Czech night. Dark mode. Always.
 
 <p align="center">
-  <a href="https://toget-us.lovable.app"><img src="./assets/card-protebe.svg" alt="Pro Tebe — private shared space for two people" width="100%" /></a>
+  <img src="./assets/terminal.svg" alt="ops.log — whoami, ping tower, echo mission" width="100%" />
 </p>
 
-<p align="center"><sub><a href="https://toget-us.lovable.app">Open the live app</a> · private product</sub></p>
+## Missions
 
-### MailerSend Studio
+### 01 · Pro Tebe · LIVE
 
-A messaging console for SMS, iMessage, and WhatsApp, built around the MailerSend API.
+Two people. One room. Messages and photos that survive the dead zone.
 
 <p align="center">
-  <a href="https://github.com/LShadow696/MailerSend"><img src="./assets/card-mailersend.svg" alt="MailerSend Studio — multi-channel messaging console" width="100%" /></a>
+  <a href="https://toget-us.lovable.app"><img src="./assets/card-protebe.svg" alt="Mission 01 — Pro Tebe, live" width="100%" /></a>
 </p>
 
-<p align="center"><sub><a href="https://github.com/LShadow696/MailerSend">View source</a> · public repository</sub></p>
+<p align="center"><sub><a href="https://toget-us.lovable.app">Enter the room</a> · private product</sub></p>
 
-## Toolbox
+### 02 · MailerSend Studio · ARMED
+
+SMS. iMessage. WhatsApp. One console. If it can be sent, it leaves from here.
 
 <p align="center">
-  <img src="./assets/toolbox.svg" alt="TypeScript, React, TanStack, Vite, Tailwind, Supabase, PostgreSQL, Node.js" width="100%" />
+  <a href="https://github.com/LShadow696/MailerSend"><img src="./assets/card-mailersend.svg" alt="Mission 02 — MailerSend Studio, armed" width="100%" /></a>
 </p>
 
-## Connect
+<p align="center"><sub><a href="https://github.com/LShadow696/MailerSend">Open the console</a> · public repository</sub></p>
 
-If you are working on a product with a real user, a hard technical constraint, or a collaboration with room to learn, [write me](mailto:Lshadow696@fkv.me) or visit [fkv.me](https://fkv.me).
+## Loadout
 
-<p align="center"><sub>Building useful things, one considered iteration at a time.</sub></p>
+TypeScript · React · TanStack · Vite · Tailwind · Supabase · PostgreSQL · Node.js
+
+## Handshake
+
+Don't pitch me a slide. Pitch me a constraint.
+
+[write](mailto:Lshadow696@fkv.me) · [fkv.me](https://fkv.me)
+
+<details>
+<summary>decrypt</summary>
+<br/>
+
+Bridge the gap. Create the rest.
+
+</details>

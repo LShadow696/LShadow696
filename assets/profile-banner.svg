@@ -1,15 +1,36 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">František Kalášek — full-stack developer</title>
-  <desc id="desc">Leafy Shadow. Full-stack developer in the Czech Republic. Bridge the gap. Create the rest.</desc>
-  <rect width="1200" height="360" fill="#0A0B0A"/>
-  <rect x="20" y="20" width="1160" height="320" rx="2" stroke="#C8CCD4" stroke-opacity="0.16"/>
-  <path d="M986 64C1078 86 1164 158 1132 242C1106 308 1012 326 948 278C894 236 886 154 936 104C952 84 968 70 986 64Z" fill="#131513"/>
-  <path d="M994 92C1026 148 1040 210 1014 276" stroke="#C8CCD4" stroke-opacity="0.28" stroke-width="1.25"/>
-  <path d="M1006 128C1034 146 1052 176 1044 206" stroke="#C8CCD4" stroke-opacity="0.16" stroke-width="1"/>
-  <path d="M56 56H188" stroke="#C8CCD4" stroke-opacity="0.28" stroke-width="1"/>
-  <text x="56" y="84" fill="#8B919C" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="4.2">LSHADOW696</text>
-  <text x="56" y="168" fill="#E8E6E1" font-family="Georgia, Times New Roman, serif" font-size="52">František Kalášek</text>
-  <text x="56" y="208" fill="#8B919C" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18">Full-stack developer  ·  Czech Republic</text>
-  <path d="M56 236H420" stroke="#C8CCD4" stroke-opacity="0.18" stroke-width="1"/>
-  <text x="56" y="276" fill="#C8CCD4" font-family="Georgia, Times New Roman, serif" font-size="20">Bridge the gap. Create the rest.</text>
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Leafy Shadow — František Kalášek</title>
+  <desc id="desc">Signal locked. Czech Republic. Bridge the gap. Create the rest.</desc>
+  <defs>
+    <style>
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      .sweep { animation: sweep 7s linear infinite; }
+      .breathe { animation: breathe 5s ease-in-out infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes sweep { from { transform: translateX(-80px); } to { transform: translateX(1280px); } }
+      @keyframes breathe { 0%, 100% { opacity: 0.9; } 50% { opacity: 0.45; } }
+    </style>
+  </defs>
+  <rect width="1200" height="400" fill="#0A0B0A"/>
+  <g stroke="#C8CCD4" stroke-opacity="0.22" stroke-width="1">
+    <path d="M24 24H56M24 24V56"/>
+    <path d="M1176 24H1144M1176 24V56"/>
+    <path d="M24 376H56M24 376V344"/>
+    <path d="M1176 376H1144M1176 376V344"/>
+  </g>
+  <rect x="24" y="24" width="1152" height="352" fill="none" stroke="#C8CCD4" stroke-opacity="0.1"/>
+  <g opacity="0.07" stroke="#C8CCD4" stroke-width="1">
+    <path d="M24 64H1176"/><path d="M24 104H1176"/><path d="M24 144H1176"/><path d="M24 184H1176"/>
+    <path d="M24 224H1176"/><path d="M24 264H1176"/><path d="M24 304H1176"/><path d="M24 344H1176"/>
+  </g>
+  <rect class="sweep" x="0" y="24" width="2" height="352" fill="#C8CCD4" fill-opacity="0.18"/>
+  <path class="breathe" d="M986 72C1078 94 1164 166 1132 250C1106 316 1012 334 948 286C894 244 886 162 936 112C952 92 968 78 986 72Z" fill="#131513" stroke="#C8CCD4" stroke-opacity="0.2"/>
+  <path d="M994 100C1026 156 1040 218 1014 284" stroke="#C8CCD4" stroke-opacity="0.3" stroke-width="1.25"/>
+  <text x="56" y="78" fill="#8B919C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="4.4">SIGNAL LOCKED  ·  LSHADOW696</text>
+  <text x="56" y="168" fill="#E8E6E1" font-family="Georgia, Times New Roman, serif" font-size="64">LEAFY SHADOW</text>
+  <text x="56" y="214" fill="#8B919C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">František Kalášek  ·  Czech Republic  ·  49°N</text>
+  <path d="M56 248H460" stroke="#C8CCD4" stroke-opacity="0.2"/>
+  <text x="56" y="292" fill="#C8CCD4" font-family="Georgia, Times New Roman, serif" font-size="22">if (gap) create(rest);</text>
+  <rect class="cursor" x="328" y="274" width="10" height="22" fill="#C8CCD4"/>
+  <text x="56" y="348" fill="#6A706C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.4">ONLINE  ·  DARK MODE  ·  ALWAYS</text>
 </svg>
