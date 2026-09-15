@@ -50,13 +50,6 @@ A messaging console for SMS, iMessage, and WhatsApp, built around the MailerSend
   <img src="./assets/toolbox.svg" alt="TypeScript, React, TanStack, Vite, Tailwind, Supabase, PostgreSQL, Node.js" width="100%" />
 </p>
 
-## Activity
-
-<p align="center">
-  <img height="148" src="https://github-readme-stats.vercel.app/api?username=LShadow696&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=0A0B0A&title_color=C8CCD4&icon_color=C8CCD4&text_color=8B919C&ring_color=8B919C" alt="GitHub statistics for LShadow696" />
-  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LShadow696&layout=compact&hide_border=true&bg_color=0A0B0A&title_color=C8CCD4&text_color=8B919C" alt="Most used languages" />
-</p>
-
 ## Connect
 
 If you are working on a product with a real user, a hard technical constraint, or a collaboration with room to learn, [write me](mailto:Lshadow696@fkv.me) or visit [fkv.me](https://fkv.me).
