@@ -1,8 +1,5 @@
-# Hi, I'm František Kalášek 👋
-
 <p align="center">
-  <strong>Full-stack developer building practical, human-centered web apps.</strong><br />
-  Czech Republic · TypeScript ecosystem · Always learning by shipping
+  <img src="./assets/profile-banner.svg" alt="František Kalášek — full-stack developer" />
 </p>
 
 <p align="center">
