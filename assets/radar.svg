@@ -1,0 +1,26 @@
+<svg width="880" height="360" viewBox="0 0 880 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">Night station scope — 49°N</title>
+  <rect width="880" height="360" fill="#0A0B0A"/>
+  <rect x="1" y="1" width="878" height="358" stroke="#C8CCD4" stroke-opacity="0.16"/>
+  <text x="28" y="36" fill="#6A706C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">scope  ·  sweep live</text>
+  <g transform="translate(220 196)">
+    <circle r="132" fill="#0A0B0A" stroke="#C8CCD4" stroke-opacity="0.2"/>
+    <circle r="96" fill="none" stroke="#C8CCD4" stroke-opacity="0.14"/>
+    <circle r="60" fill="none" stroke="#C8CCD4" stroke-opacity="0.14"/>
+    <circle r="28" fill="none" stroke="#C8CCD4" stroke-opacity="0.14"/>
+    <path d="M-132 0H132M0 -132V132" stroke="#C8CCD4" stroke-opacity="0.12"/>
+    <g>
+      <path d="M0 0L0 -132" stroke="#C8CCD4" stroke-opacity="0.6" stroke-width="1.5"/>
+      <path d="M0 0L32 -128" fill="#C8CCD4" fill-opacity="0.08"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.2s" repeatCount="indefinite"/>
+    </g>
+    <circle cx="52" cy="-64" r="4" fill="#C8CCD4">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="420" y="150" fill="#E8E6E1" font-family="Georgia, Times New Roman, serif" font-size="28">Czech night.</text>
+  <text x="420" y="186" fill="#8B919C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">49°N  ·  station 696</text>
+  <text x="420" y="226" fill="#C8CCD4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">ping tower → timeout</text>
+  <text x="420" y="250" fill="#8B919C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">offline cache → HIT</text>
+  <text x="420" y="286" fill="#6A706C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">the message still arrives</text>
+</svg>

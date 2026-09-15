@@ -1,14 +1,15 @@
-<svg width="880" height="220" viewBox="0 0 880 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
-  <title id="t">Mission 01 — Pro Tebe, live</title>
-  <rect width="880" height="220" fill="#0A0B0A"/>
-  <rect x="1" y="1" width="878" height="218" stroke="#C8CCD4" stroke-opacity="0.16"/>
-  <path d="M1 1H28V1M1 1V28" stroke="#C8CCD4" stroke-opacity="0.4"/>
-  <path d="M879 1H852M879 1V28" stroke="#C8CCD4" stroke-opacity="0.4"/>
-  <text x="36" y="48" fill="#8B919C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3.4">01  ·  LIVE</text>
-  <text x="36" y="102" fill="#E8E6E1" font-family="Georgia, Times New Roman, serif" font-size="36">Pro Tebe</text>
-  <text x="36" y="142" fill="#8B919C" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16">Two people. One room. No tower required.</text>
-  <text x="36" y="184" fill="#C8CCD4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">toget-us.lovable.app</text>
-  <circle cx="820" cy="48" r="5" fill="#C8CCD4">
+<svg width="880" height="240" viewBox="0 0 880 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">Dossier 01 — Pro Tebe, live</title>
+  <rect width="880" height="240" fill="#0A0B0A"/>
+  <rect x="1" y="1" width="878" height="238" stroke="#C8CCD4" stroke-opacity="0.16"/>
+  <path d="M1 1H28V1M1 1V28" stroke="#C8CCD4" stroke-opacity="0.45"/>
+  <path d="M879 1H852M879 1V28" stroke="#C8CCD4" stroke-opacity="0.45"/>
+  <text x="36" y="48" fill="#8B919C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3.2">01  ·  LIVE</text>
+  <text x="620" y="48" fill="#6A706C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.4">DEAD ZONE PROTOCOL</text>
+  <text x="36" y="108" fill="#E8E6E1" font-family="Georgia, Times New Roman, serif" font-size="40">Pro Tebe</text>
+  <text x="36" y="150" fill="#8B919C" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16">Two people. One room. No tower required.</text>
+  <text x="36" y="198" fill="#C8CCD4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">toget-us.lovable.app  ·  still arrives</text>
+  <circle cx="840" cy="48" r="5" fill="#C8CCD4">
     <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
   </circle>
 </svg>
