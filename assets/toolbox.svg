@@ -1,0 +1,22 @@
+<svg width="880" height="88" viewBox="0 0 880 88" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">Toolbox — TypeScript, React, TanStack, Vite, Tailwind, Supabase, PostgreSQL, Node.js</title>
+  <rect width="880" height="88" fill="#0A0B0A"/>
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#C8CCD4">
+    <rect x="0.5" y="24.5" width="108" height="36" rx="2" stroke="#C8CCD4" stroke-opacity="0.18"/>
+    <text x="54" y="47" text-anchor="middle">TypeScript</text>
+    <rect x="116.5" y="24.5" width="76" height="36" rx="2" stroke="#C8CCD4" stroke-opacity="0.18"/>
+    <text x="154" y="47" text-anchor="middle">React</text>
+    <rect x="200.5" y="24.5" width="92" height="36" rx="2" stroke="#C8CCD4" stroke-opacity="0.18"/>
+    <text x="246" y="47" text-anchor="middle">TanStack</text>
+    <rect x="300.5" y="24.5" width="68" height="36" rx="2" stroke="#C8CCD4" stroke-opacity="0.18"/>
+    <text x="334" y="47" text-anchor="middle">Vite</text>
+    <rect x="376.5" y="24.5" width="92" height="36" rx="2" stroke="#C8CCD4" stroke-opacity="0.18"/>
+    <text x="422" y="47" text-anchor="middle">Tailwind</text>
+    <rect x="476.5" y="24.5" width="96" height="36" rx="2" stroke="#C8CCD4" stroke-opacity="0.18"/>
+    <text x="524" y="47" text-anchor="middle">Supabase</text>
+    <rect x="580.5" y="24.5" width="108" height="36" rx="2" stroke="#C8CCD4" stroke-opacity="0.18"/>
+    <text x="634" y="47" text-anchor="middle">PostgreSQL</text>
+    <rect x="696.5" y="24.5" width="84" height="36" rx="2" stroke="#C8CCD4" stroke-opacity="0.18"/>
+    <text x="738" y="47" text-anchor="middle">Node.js</text>
+  </g>
+</svg>

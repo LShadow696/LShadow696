@@ -1,0 +1,11 @@
+<svg width="880" height="200" viewBox="0 0 880 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">MailerSend Studio — multi-channel messaging console</title>
+  <rect width="880" height="200" fill="#0A0B0A"/>
+  <rect x="1" y="1" width="878" height="198" rx="2" stroke="#C8CCD4" stroke-opacity="0.16"/>
+  <text x="36" y="48" fill="#8B919C" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="3.2">PUBLIC REPOSITORY</text>
+  <text x="36" y="92" fill="#E8E6E1" font-family="Georgia, Times New Roman, serif" font-size="32">MailerSend Studio</text>
+  <text x="36" y="128" fill="#8B919C" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15">A messaging console for SMS, iMessage, and WhatsApp — built around the MailerSend API.</text>
+  <text x="36" y="168" fill="#C8CCD4" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13">github.com/LShadow696/MailerSend</text>
+  <path d="M790 100H844" stroke="#C8CCD4" stroke-opacity="0.4" stroke-width="1.25"/>
+  <path d="M828 84L844 100L828 116" stroke="#C8CCD4" stroke-opacity="0.4" stroke-width="1.25" fill="none"/>
+</svg>

@@ -1,1 +1,64 @@
-<p align="center">\n  <img src="./assets/profile-banner.svg" alt="František Kalášek — full-stack developer" />\n</p>\n\n<p align="center">\n  <a href="https://fkv.me">Website</a> ·\n  <a href="mailto:Lshadow696@fkv.me">Email</a> ·\n  <a href="https://github.com/LShadow696">GitHub</a>\n</p>\n\n## About me\n\nI enjoy turning ideas into useful products: responsive interfaces, reliable data flows, and experiences that feel simple to use. My current work sits at the intersection of React, TypeScript, full-stack development, and thoughtful product details.\n\n- 🛠️ Building mobile-first web applications\n- 🔄 Interested in real-time sync, offline-friendly experiences, and clean UX\n- 🌱 Growing through hands-on work and continuous experimentation\n- 🤝 Open to thoughtful collaborations and interesting product problems\n\n## Featured project\n\n### [Pro Tebe](https://github.com/LShadow696/ProTebe)\n\nA mobile-first shared web app focused on staying connected across devices. The project explores real-time synchronization, offline support, shared messages, reactions, and photo-based memories.\n\n<p align="center">\n  <a href="https://toget-us.lovable.app"><img src="https://raw.githubusercontent.com/LShadow696/ProTebe/main/assets/app-preview.svg" alt="Pro Tebe product preview" /></a>\n</p>\n\n<p align="center"><sub>Product preview · <a href="https://toget-us.lovable.app">Open the live app</a> · <a href="https://github.com/LShadow696/ProTebe">View source</a></sub></p>\n\n## Toolbox\n\n<p align="center">\n  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />\n  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />\n  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />\n  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />\n  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />\n  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />\n  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />\n  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=111111" alt="Drizzle" />\n  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />\n  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />\n</p>\n\n## GitHub activity\n\n<p align="center">\n  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LShadow696&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="František's GitHub statistics" />\n  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LShadow696&layout=compact&hide_border=true&theme=tokyonight" alt="František's most used languages" />\n</p>\n\n<p align="center">\n  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LShadow696&theme=tokyonight&hide_border=true" alt="František's GitHub streak" />\n</p>\n\n## Let's connect\n\nIf you are working on a useful product, an interesting technical challenge, or a collaboration with room to learn, [send me a message](mailto:Lshadow696@fkv.me) or visit [fkv.me](https://fkv.me).\n\n<p align="center">\n  <a href="https://fkv.me"><img src="https://img.shields.io/badge/Website-fkv.me-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>\n  <a href="mailto:Lshadow696@fkv.me"><img src="https://img.shields.io/badge/Email-Lshadow696%40fkv.me-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>\n</p>\n\n<p align="center"><sub>Building useful things, one thoughtful iteration at a time.</sub></p>\n
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="František Kalášek — full-stack developer from the Czech Republic" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://fkv.me">website</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:Lshadow696@fkv.me">email</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/LeafyShadowQQ">x</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/LShadow696">github</a>
+</p>
+
+I build mobile-first web apps that stay useful when the network doesn't — quiet interfaces, reliable sync, and product details that feel considered.
+
+Currently in the Czech Republic, working at the intersection of React, TypeScript, and real-time data.
+
+## Now
+
+- Shipping **Pro Tebe**, a private shared space for two people
+- Building a multi-channel messaging studio on MailerSend
+- Exploring offline-first UX and clean mobile interaction
+
+## Selected work
+
+### Pro Tebe
+
+A private, mobile-first product for staying connected across devices. Shared messages, reactions, photo memories, and offline-friendly sync.
+
+<p align="center">
+  <a href="https://toget-us.lovable.app"><img src="./assets/card-protebe.svg" alt="Pro Tebe — private shared space for two people" width="100%" /></a>
+</p>
+
+<p align="center"><sub><a href="https://toget-us.lovable.app">Open the live app</a> · private product</sub></p>
+
+### MailerSend Studio
+
+A messaging console for SMS, iMessage, and WhatsApp, built around the MailerSend API.
+
+<p align="center">
+  <a href="https://github.com/LShadow696/MailerSend"><img src="./assets/card-mailersend.svg" alt="MailerSend Studio — multi-channel messaging console" width="100%" /></a>
+</p>
+
+<p align="center"><sub><a href="https://github.com/LShadow696/MailerSend">View source</a> · public repository</sub></p>
+
+## Toolbox
+
+<p align="center">
+  <img src="./assets/toolbox.svg" alt="TypeScript, React, TanStack, Vite, Tailwind, Supabase, PostgreSQL, Node.js" width="100%" />
+</p>
+
+## Activity
+
+<p align="center">
+  <img height="148" src="https://github-readme-stats.vercel.app/api?username=LShadow696&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=0A0B0A&title_color=C8CCD4&icon_color=C8CCD4&text_color=8B919C&ring_color=8B919C" alt="GitHub statistics for LShadow696" />
+  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LShadow696&layout=compact&hide_border=true&bg_color=0A0B0A&title_color=C8CCD4&text_color=8B919C" alt="Most used languages" />
+</p>
+
+## Connect
+
+If you are working on a product with a real user, a hard technical constraint, or a collaboration with room to learn, [write me](mailto:Lshadow696@fkv.me) or visit [fkv.me](https://fkv.me).
+
+<p align="center"><sub>Building useful things, one considered iteration at a time.</sub></p>
