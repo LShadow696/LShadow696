@@ -1,0 +1,31 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.52" stop-color="#17133B"/>
+      <stop offset="1" stop-color="#0E7490"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="900" y1="20" x2="1090" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="32"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1010" cy="90" r="140" fill="url(#glow)" filter="url(#blur)"/>
+  <circle cx="1080" cy="270" r="90" fill="#22D3EE" fill-opacity="0.12" filter="url(#blur)"/>
+  <path d="M0 260C180 215 270 285 420 240C560 198 660 214 790 252C925 291 1025 225 1200 180" stroke="#67E8F9" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M0 278C180 233 270 303 420 258C560 216 660 232 790 270C925 309 1025 243 1200 198" stroke="#A78BFA" stroke-opacity="0.2" stroke-width="2"/>
+  <g opacity="0.5" fill="#E0F2FE">
+    <circle cx="880" cy="54" r="2"/><circle cx="930" cy="116" r="1.5"/><circle cx="1132" cy="74" r="2"/><circle cx="1045" cy="184" r="1.5"/><circle cx="760" cy="92" r="1.5"/><circle cx="1160" cy="232" r="1.5"/>
+  </g>
+  <text x="76" y="126" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">František Kalášek</text>
+  <text x="80" y="174" fill="#C4B5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">FULL-STACK DEVELOPER · CZECH REPUBLIC</text>
+  <text x="80" y="226" fill="#BAE6FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Building practical, human-centered web apps.</text>
+  <g transform="translate(1020 112)">
+    <rect width="96" height="96" rx="24" fill="#F8FAFC" fill-opacity="0.08" stroke="#E0F2FE" stroke-opacity="0.24"/>
+    <path d="M30 48L42 60L66 36" stroke="#67E8F9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
