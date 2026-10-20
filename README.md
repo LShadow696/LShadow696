@@ -1,81 +1,67 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Leafy Shadow — night station 69.6, signal locked, Czech Republic" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Leafy Shadow — station 696, carrier locked. if (gap) create(rest);" width="100%" />
+</p>
+
+<p align="center">
+  <strong>František Kalášek</strong><br/>
+  Czech Republic · 49°N · dark mode, always
 </p>
 
 <p align="center">
   <a href="https://fkv.me">website</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:Lshadow696@fkv.me">transmit</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://x.com/LeafyShadowQQ">x</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/LShadow696">github</a>
 </p>
 
-<pre>
-FREQ  69.6    LOCKED
-if (gap) create(rest);
-</pre>
+I build practical, human-centered web apps. The case I care about is the gap: two phones, a dead zone, a message that still arrives.
 
-The gap is the product. Two phones. A dead zone. A message that still arrives. Czech night. Dark mode. Always.
+<pre>if (gap) create(rest);</pre>
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/radar.svg" alt="Night station scope — ping tower, cache hit, 49°N" width="100%" /></td>
-    <td width="50%"><img src="./assets/spectrum.svg" alt="Carrier 69.6 megahertz, locked" width="100%" /></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="./assets/decrypt.svg" alt="Decrypt sequence — if (gap) create(rest);" width="100%" />
-</p>
+Mezera. Zbytek vytvoř.
 
 ## Dossiers
 
-### 01 · Pro Tebe · LIVE
+> **01 · Pro Tebe** &nbsp;&nbsp;`LIVE`<br/>
+> A shared room for two. Messages, photos, and memories — and an offline cache, so the note still lands when the tower doesn't.<br/>
+> [Enter the room](https://toget-us.lovable.app) · private product<br/>
+> TypeScript · React · TanStack · Supabase
 
-Two people. One room. Messages and photos that survive the dead zone.
+> **02 · Společníci** &nbsp;&nbsp;`OPEN`<br/>
+> A Czech pack of companions you talk to. Local voice, a mood, a bond that changes. A parťák, not a help desk.<br/>
+> [Open the source](https://github.com/LShadow696/Companions) · public repository<br/>
+> TypeScript · TanStack Start · Postgres
 
-<p align="center">
-  <a href="https://toget-us.lovable.app"><img src="./assets/card-protebe.svg" alt="Dossier 01 — Pro Tebe, live, dead zone protocol" width="100%" /></a>
-</p>
+## Signal
 
-<p align="center"><sub><a href="https://toget-us.lovable.app">Enter the room</a> · private product</sub></p>
+**Now** — Pro Tebe is live. Společníci is public.
 
-### 02 · MailerSend Studio · ARMED
+**Stack** — TypeScript, React, TanStack, Vite, Tailwind, Supabase, PostgreSQL, Node.js
 
-SMS. iMessage. WhatsApp. One console. If it can be sent, it leaves from here.
+**Rule** — Constraint first. If it only works on a perfect connection, it isn't finished.
 
-<p align="center">
-  <a href="https://github.com/LShadow696/MailerSend"><img src="./assets/card-mailersend.svg" alt="Dossier 02 — MailerSend Studio, armed" width="100%" /></a>
-</p>
-
-<p align="center"><sub><a href="https://github.com/LShadow696/MailerSend">Open the console</a> · public repository</sub></p>
-
-<p align="center">
-  <img src="./assets/terminal.svg" alt="ops.log — ping tower, decrypt, handshake" width="100%" />
-</p>
+**Ask** — Don't pitch a slide. Pitch a constraint.
 
 ## Handshake
-
-Don't pitch me a slide. Pitch me a constraint.
 
 [write](mailto:Lshadow696@fkv.me) · [fkv.me](https://fkv.me)
 
 <details>
 <summary>decrypt</summary>
-<br/>
 
-```
-whoami      operator
-ping        the tower (it will fail)
+```text
+whoami      František Kalášek
+callsign    Leafy Shadow
+freq        69.6 locked
+ping        the tower — it will fail
 deadzone    drop the tower on purpose
-lock        69.6
-decrypt     the only line that matters
+archive     mailersend studio — public repo is down
+decrypt     if (gap) create(rest);
 ```
 
 Bridge the gap. Create the rest.
-
-Mezera. Zbytek vytvoř.
 
 </details>
