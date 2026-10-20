@@ -21,7 +21,7 @@ I build practical, human-centered web apps. The case I care about is the gap: tw
 
 <pre>if (gap) create(rest);</pre>
 
-Mezera. Zbytek vytvoř.
+
 
 ## Dossiers
 
