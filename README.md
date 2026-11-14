@@ -3,54 +3,56 @@
 </p>
 
 <p align="center">
-  <strong>František Kalášek</strong><br/>
-  Czech Republic · 49°N · dark mode, always
+  <strong>František Kalášek · Leafy Shadow</strong><br/>
+  Czech Republic · 49°N · building for the dead zone
 </p>
 
 <p align="center">
-  <a href="https://fkv.me">website</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:Lshadow696@fkv.me">transmit</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/LeafyShadowQQ">x</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/LShadow696">github</a>
+  <a href="#work">Work</a>
+  &nbsp;·&nbsp;
+  <a href="#principle">Principle</a>
+  &nbsp;·&nbsp;
+  <a href="#toolkit">Toolkit</a>
+  &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
 </p>
 
-I build practical, human-centered web apps. The case I care about is the gap: two phones, a dead zone, a message that still arrives.
+I build practical, human-centered web apps. I care about the moments when a connection drops, a message matters, and the experience should keep going.
 
-<pre>if (gap) create(rest);</pre>
+<p align="center"><code>if (gap) create(rest);</code></p>
 
+## Work
 
+<p align="center">
+  <a href="https://toget-us.lovable.app">
+    <img src="./assets/card-protebe.svg" alt="Pro Tebe — a shared room for two, built to keep going when the connection drops." width="100%" />
+  </a>
+</p>
 
-## Dossiers
+**Pro Tebe** is a private space for two to share messages, photos, and memories. It is live, with an offline cache so a note can still arrive when the tower doesn't.
 
-> **01 · Pro Tebe** &nbsp;&nbsp;`LIVE`<br/>
-> A shared room for two. Messages, photos, and memories — and an offline cache, so the note still lands when the tower doesn't.<br/>
-> [Enter the room](https://toget-us.lovable.app) · private product<br/>
-> TypeScript · React · TanStack · Supabase
+[Open Pro Tebe](https://toget-us.lovable.app)
 
-> **02 · Společníci** &nbsp;&nbsp;`OPEN`<br/>
-> A Czech pack of companions you talk to. Local voice, a mood, a bond that changes. A parťák, not a help desk.<br/>
-> [Open the source](https://github.com/LShadow696/Companions) · public repository<br/>
-> TypeScript · TanStack Start · Postgres
+## Principle
 
-## Signal
+<p align="center">
+  <img src="./assets/radar.svg" alt="Night station at 49 degrees north: when the tower times out, the offline cache keeps the experience available." width="100%" />
+</p>
 
-**Now** — Pro Tebe is live. Společníci is public.
+**Constraint first.** A useful app should account for unreliable connections, not just the perfect-network demo.
 
-**Stack** — TypeScript, React, TanStack, Vite, Tailwind, Supabase, PostgreSQL, Node.js
+## Toolkit
 
-**Rule** — Constraint first. If it only works on a perfect connection, it isn't finished.
+<p align="center">
+  <img src="./assets/toolbox.svg" alt="Tools: TypeScript, React, TanStack, Vite, Tailwind, Supabase, PostgreSQL, and Node.js." width="100%" />
+</p>
 
-**Ask** — Don't pitch a slide. Pitch a constraint.
+## Contact
 
-## Handshake
-
-[write](mailto:Lshadow696@fkv.me) · [fkv.me](https://fkv.me)
+[Email](mailto:Lshadow696@fkv.me) · [X](https://x.com/LeafyShadowQQ) · [GitHub](https://github.com/LShadow696)
 
 <details>
-<summary>decrypt</summary>
+<summary>Decrypt</summary>
 
 ```text
 whoami      František Kalášek
@@ -58,7 +60,6 @@ callsign    Leafy Shadow
 freq        69.6 locked
 ping        the tower — it will fail
 deadzone    drop the tower on purpose
-archive     mailersend studio — public repo is down
 decrypt     if (gap) create(rest);
 ```
 
